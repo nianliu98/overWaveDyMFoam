@@ -1,0 +1,3 @@
+overWaveDyMFoam.C
+
+EXE = $(WAVES_APPBIN)/overWaveDyMFoam
